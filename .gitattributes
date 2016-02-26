@@ -1,0 +1,7 @@
+# This is a catch-all fallback entry for anything that's not matched below.
+# We need this only so that it's possible to turn on core.autocrlf without
+# having to fear accidental corruption of binary files that look like text.
+*                     -text
+.gitattributes        text
+.gitignore            text
+*.md                  text
