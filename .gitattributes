@@ -4,4 +4,7 @@
 *                     -text
 .gitattributes        text
 .gitignore            text
+*.asc                 text eol=lf
+*.cpp                 text diff=cpp
 *.md                  text
+*.png                 binary
