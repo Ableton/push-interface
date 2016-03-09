@@ -11,10 +11,4 @@ In the [Ableton Push 2 MIDI and Display Interface Manual](doc/AbletonPush2MIDIDi
 
 ##Questions and comments
 
-Please add an [issue] (https://github.com/Ableton/push-interface/issues) with your question or comment. We will reply as soon as we can. 
-
-##License
-
-See [LICENSE] (https://github.com/Ableton/push-interface/blob/master/LICENSE).
-
-
+Please add an [issue] (https://github.com/Ableton/push-interface/issues) with your question or comment. We will reply as soon as we can.
