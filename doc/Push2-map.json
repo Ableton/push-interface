@@ -1,0 +1,932 @@
+{
+  "parts": {
+    "pads": [
+      {
+        "Value": 36,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 1"
+      },
+      {
+        "Value": 37,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 2"
+      },
+      {
+        "Value": 38,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 3"
+      },
+      {
+        "Value": 39,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 4"
+      },
+      {
+        "Value": 40,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 5"
+      },
+      {
+        "Value": 41,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 6"
+      },
+      {
+        "Value": 42,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 7"
+      },
+      {
+        "Value": 43,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 8"
+      },
+      {
+        "Value": 44,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 9"
+      },
+      {
+        "Value": 45,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 10"
+      },
+      {
+        "Value": 46,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 11"
+      },
+      {
+        "Value": 47,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 12"
+      },
+      {
+        "Value": 48,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 13"
+      },
+      {
+        "Value": 49,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 14"
+      },
+      {
+        "Value": 50,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 15"
+      },
+      {
+        "Value": 51,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 16"
+      },
+      {
+        "Value": 52,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 17"
+      },
+      {
+        "Value": 53,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 18"
+      },
+      {
+        "Value": 54,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 19"
+      },
+      {
+        "Value": 55,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 20"
+      },
+      {
+        "Value": 56,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 21"
+      },
+      {
+        "Value": 57,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 22"
+      },
+      {
+        "Value": 58,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 23"
+      },
+      {
+        "Value": 59,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 24"
+      },
+      {
+        "Value": 60,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 25"
+      },
+      {
+        "Value": 61,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 26"
+      },
+      {
+        "Value": 62,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 27"
+      },
+      {
+        "Value": 63,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 28"
+      },
+      {
+        "Value": 64,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 29"
+      },
+      {
+        "Value": 65,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 30"
+      },
+      {
+        "Value": 66,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 31"
+      },
+      {
+        "Value": 67,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 32"
+      },
+      {
+        "Value": 68,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 33"
+      },
+      {
+        "Value": 69,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 34"
+      },
+      {
+        "Value": 70,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 35"
+      },
+      {
+        "Value": 71,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 36"
+      },
+      {
+        "Value": 72,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 37"
+      },
+      {
+        "Value": 73,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 38"
+      },
+      {
+        "Value": 74,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 39"
+      },
+      {
+        "Value": 75,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 40"
+      },
+      {
+        "Value": 76,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 41"
+      },
+      {
+        "Value": 77,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 42"
+      },
+      {
+        "Value": 78,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 43"
+      },
+      {
+        "Value": 79,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 44"
+      },
+      {
+        "Value": 80,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 45"
+      },
+      {
+        "Value": 81,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 46"
+      },
+      {
+        "Value": 82,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 47"
+      },
+      {
+        "Value": 83,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 48"
+      },
+      {
+        "Value": 84,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 49"
+      },
+      {
+        "Value": 85,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 50"
+      },
+      {
+        "Value": 86,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 51"
+      },
+      {
+        "Value": 87,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 52"
+      },
+      {
+        "Value": 88,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 53"
+      },
+      {
+        "Value": 89,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 54"
+      },
+      {
+        "Value": 90,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 55"
+      },
+      {
+        "Value": 91,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 56"
+      },
+      {
+        "Value": 92,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 57"
+      },
+      {
+        "Value": 93,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 58"
+      },
+      {
+        "Value": 94,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 59"
+      },
+      {
+        "Value": 95,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 60"
+      },
+      {
+        "Value": 96,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 61"
+      },
+      {
+        "Value": 97,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 62"
+      },
+      {
+        "Value": 98,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 63"
+      },
+      {
+        "Value": 99,
+        "Type": "pad",
+        "Color": true,
+        "Name": "Pad 64"
+      }
+    ],
+    "buttons": [
+      {
+        "Value": 3,
+        "Type": "cc",
+        "Color": false,
+        "Name": "Tap Tempo"
+      },
+      {
+        "Value": 9,
+        "Type": "cc",
+        "Color": false,
+        "Name": "Metronome"
+      },
+      {
+        "Value": 118,
+        "Type": "cc",
+        "Color": false,
+        "Name": "Delete"
+      },
+      {
+        "Value": 119,
+        "Type": "cc",
+        "Color": false,
+        "Name": "Undo"
+      },
+      {
+        "Value": 60,
+        "Type": "cc",
+        "Color": true,
+        "Name": "Mute"
+      },
+      {
+        "Value": 61,
+        "Type": "cc",
+        "Color": true,
+        "Name": "Solo"
+      },
+      {
+        "Value": 29,
+        "Type": "cc",
+        "Color": true,
+        "Name": "Stop"
+      },
+      {
+        "Value": 35,
+        "Type": "cc",
+        "Color": false,
+        "Name": "Convert"
+      },
+      {
+        "Value": 117,
+        "Type": "cc",
+        "Color": false,
+        "Name": "Double Loop"
+      },
+      {
+        "Value": 116,
+        "Type": "cc",
+        "Color": false,
+        "Name": "Quantize"
+      },
+      {
+        "Value": 88,
+        "Type": "cc",
+        "Color": false,
+        "Name": "Duplicate"
+      },
+      {
+        "Value": 87,
+        "Type": "cc",
+        "Color": false,
+        "Name": "New"
+      },
+      {
+        "Value": 90,
+        "Type": "cc",
+        "Color": false,
+        "Name": "Fixed Length"
+      },
+      {
+        "Value": 80,
+        "Type": "cc",
+        "Color": true,
+        "Name": "Automate"
+      },
+      {
+        "Value": 86,
+        "Type": "cc",
+        "Color": true,
+        "Name": "Record"
+      },
+      {
+        "Value": 85,
+        "Type": "cc",
+        "Color": true,
+        "Name": "Play"
+      },
+      {
+        "Value": 102,
+        "Type": "cc",
+        "Color": true,
+        "Name": "Upper Row 1"
+      },
+      {
+        "Value": 103,
+        "Type": "cc",
+        "Color": true,
+        "Name": "Upper Row 2"
+      },
+      {
+        "Value": 104,
+        "Type": "cc",
+        "Color": true,
+        "Name": "Upper Row 3"
+      },
+      {
+        "Value": 105,
+        "Type": "cc",
+        "Color": true,
+        "Name": "Upper Row 4"
+      },
+      {
+        "Value": 106,
+        "Type": "cc",
+        "Color": true,
+        "Name": "Upper Row 5"
+      },
+      {
+        "Value": 107,
+        "Type": "cc",
+        "Color": true,
+        "Name": "Upper Row 6"
+      },
+      {
+        "Value": 108,
+        "Type": "cc",
+        "Color": true,
+        "Name": "Upper Row 7"
+      },
+      {
+        "Value": 109,
+        "Type": "cc",
+        "Color": true,
+        "Name": "Upper Row 8"
+      },
+      {
+        "Value": 20,
+        "Type": "cc",
+        "Color": true,
+        "Name": "Lower Row 1"
+      },
+      {
+        "Value": 21,
+        "Type": "cc",
+        "Color": true,
+        "Name": "Lower Row 2"
+      },
+      {
+        "Value": 22,
+        "Type": "cc",
+        "Color": true,
+        "Name": "Lower Row 3"
+      },
+      {
+        "Value": 23,
+        "Type": "cc",
+        "Color": true,
+        "Name": "Lower Row 4"
+      },
+      {
+        "Value": 24,
+        "Type": "cc",
+        "Color": true,
+        "Name": "Lower Row 5"
+      },
+      {
+        "Value": 25,
+        "Type": "cc",
+        "Color": true,
+        "Name": "Lower Row 6"
+      },
+      {
+        "Value": 26,
+        "Type": "cc",
+        "Color": true,
+        "Name": "Lower Row 7"
+      },
+      {
+        "Value": 27,
+        "Type": "cc",
+        "Color": true,
+        "Name": "Lower Row 8"
+      },
+      {
+        "Value": 43,
+        "Type": "cc",
+        "Color": true,
+        "Name": "1/32t"
+      },
+      {
+        "Value": 42,
+        "Type": "cc",
+        "Color": true,
+        "Name": "1/32"
+      },
+      {
+        "Value": 41,
+        "Type": "cc",
+        "Color": true,
+        "Name": "1/16t"
+      },
+      {
+        "Value": 40,
+        "Type": "cc",
+        "Color": true,
+        "Name": "1/16"
+      },
+      {
+        "Value": 39,
+        "Type": "cc",
+        "Color": true,
+        "Name": "1/8t"
+      },
+      {
+        "Value": 38,
+        "Type": "cc",
+        "Color": true,
+        "Name": "1/8"
+      },
+      {
+        "Value": 37,
+        "Type": "cc",
+        "Color": true,
+        "Name": "1/4t"
+      },
+      {
+        "Value": 36,
+        "Type": "cc",
+        "Color": true,
+        "Name": "1/4"
+      },
+      {
+        "Value": 30,
+        "Type": "cc",
+        "Color": false,
+        "Name": "Setup"
+      },
+      {
+        "Value": 59,
+        "Type": "cc",
+        "Color": false,
+        "Name": "User"
+      },
+      {
+        "Value": 52,
+        "Type": "cc",
+        "Color": false,
+        "Name": "Add Device"
+      },
+      {
+        "Value": 53,
+        "Type": "cc",
+        "Color": false,
+        "Name": "Add Track"
+      },
+      {
+        "Value": 110,
+        "Type": "cc",
+        "Color": false,
+        "Name": "Device"
+      },
+      {
+        "Value": 112,
+        "Type": "cc",
+        "Color": false,
+        "Name": "Mix"
+      },
+      {
+        "Value": 111,
+        "Type": "cc",
+        "Color": false,
+        "Name": "Browse"
+      },
+      {
+        "Value": 113,
+        "Type": "cc",
+        "Color": false,
+        "Name": "Clip"
+      },
+      {
+        "Value": 28,
+        "Type": "cc",
+        "Color": false,
+        "Name": "Master"
+      },
+      {
+        "Value": 46,
+        "Type": "cc",
+        "Color": false,
+        "Name": "Up"
+      },
+      {
+        "Value": 47,
+        "Type": "cc",
+        "Color": false,
+        "Name": "Down"
+      },
+      {
+        "Value": 44,
+        "Type": "cc",
+        "Color": false,
+        "Name": "Left"
+      },
+      {
+        "Value": 45,
+        "Type": "cc",
+        "Color": false,
+        "Name": "Right"
+      },
+      {
+        "Value": 56,
+        "Type": "cc",
+        "Color": false,
+        "Name": "Repeat"
+      },
+      {
+        "Value": 57,
+        "Type": "cc",
+        "Color": false,
+        "Name": "Accent"
+      },
+      {
+        "Value": 58,
+        "Type": "cc",
+        "Color": false,
+        "Name": "Scale"
+      },
+      {
+        "Value": 31,
+        "Type": "cc",
+        "Color": false,
+        "Name": "Layout"
+      },
+      {
+        "Value": 50,
+        "Type": "cc",
+        "Color": false,
+        "Name": "Note"
+      },
+      {
+        "Value": 51,
+        "Type": "cc",
+        "Color": false,
+        "Name": "Session"
+      },
+      {
+        "Value": 55,
+        "Type": "cc",
+        "Color": false,
+        "Name": "Octave Up"
+      },
+      {
+        "Value": 54,
+        "Type": "cc",
+        "Color": false,
+        "Name": "Octave Dpwm"
+      },
+      {
+        "Value": 62,
+        "Type": "cc",
+        "Color": false,
+        "Name": "Page Left"
+      },
+      {
+        "Value": 63,
+        "Type": "cc",
+        "Color": false,
+        "Name": "Page Right"
+      },
+      {
+        "Value": 49,
+        "Type": "cc",
+        "Color": false,
+        "Name": "Shift"
+      },
+      {
+        "Value": 48,
+        "Type": "cc",
+        "Color": false,
+        "Name": "Select"
+      },
+      {
+        "Value": 48,
+        "Type": "cc",
+        "Color": false,
+        "Name": "Select"
+      }
+    ],
+    "rotaryencoders": [
+      {
+        "Value": 14,
+        "Type": "rotaryencoder",
+        "Touch": 10
+      },
+      {
+        "Value": 15,
+        "Type": "rotaryencoder",
+        "Touch": 9
+      },
+      {
+        "Value": 71,
+        "Type": "rotaryencoder",
+        "Touch": 0
+      },
+      {
+        "Value": 72,
+        "Type": "rotaryencoder",
+        "Touch": 1
+      },
+      {
+        "Value": 73,
+        "Type": "rotaryencoder",
+        "Touch": 2
+      },
+      {
+        "Value": 74,
+        "Type": "rotaryencoder",
+        "Touch": 3
+      },
+      {
+        "Value": 75,
+        "Type": "rotaryencoder",
+        "Touch": 4
+      },
+      {
+        "Value": 76,
+        "Type": "rotaryencoder",
+        "Touch": 5
+      },
+      {
+        "Value": 77,
+        "Type": "rotaryencoder",
+        "Touch": 6
+      },
+      {
+        "Value": 78,
+        "Type": "rotaryencoder",
+        "Touch": 7
+      },
+      {
+        "Value": 79,
+        "Type": "rotaryencoder",
+        "Touch": 8
+      }
+    ],
+    "pitchbend": {
+      "Touch": 12
+    }
+  },
+  "layout": {
+    "xy": [
+      [
+        92,
+        93,
+        94,
+        95,
+        96,
+        97,
+        98,
+        99
+      ],
+      [
+        84,
+        85,
+        86,
+        87,
+        88,
+        89,
+        90,
+        91
+      ],
+      [
+        76,
+        77,
+        78,
+        79,
+        80,
+        81,
+        82,
+        83
+      ],
+      [
+        68,
+        69,
+        70,
+        71,
+        72,
+        73,
+        74,
+        75
+      ],
+      [
+        60,
+        61,
+        62,
+        63,
+        64,
+        65,
+        66,
+        67
+      ],
+      [
+        52,
+        53,
+        54,
+        55,
+        56,
+        57,
+        58,
+        59
+      ],
+      [
+        44,
+        45,
+        46,
+        47,
+        48,
+        49,
+        50,
+        51
+      ],
+      [
+        36,
+        37,
+        38,
+        39,
+        40,
+        41,
+        42,
+        43
+      ]
+    ]
+  }
+}
