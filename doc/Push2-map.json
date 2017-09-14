@@ -543,7 +543,7 @@
         "Name": "Fixed Length"
       },
       {
-        "Number": 80,
+        "Number": 89,
         "Type": "button",
         "Message": "cc",
         "Color": true,
@@ -1035,7 +1035,7 @@
     }
   },
   "layout": {
-    "xy": [
+    "XY": [
       [
         92,
         93,
