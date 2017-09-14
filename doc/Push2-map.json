@@ -1,6 +1,6 @@
 {
-  "parts": {
-    "pads": [
+  "Parts": {
+    "Pads": [
       {
         "Number": 36,
         "Type": "pad",
@@ -450,7 +450,7 @@
         "Name": "Pad 64"
       }
     ],
-    "buttons": [
+    "Buttons": [
       {
         "Number": 3,
         "Type": "button",
@@ -876,7 +876,7 @@
         "Type": "button",
         "Message": "cc",
         "Color": false,
-        "Name": "Octave Dpwm"
+        "Name": "Octave Down"
       },
       {
         "Number": 62,
@@ -914,11 +914,12 @@
         "Name": "Select"
       }
     ],
-    "rotaryencoders": [
+    "RotaryEncoders": [
       {
         "Number": 14,
         "Type": "rotaryencoder",
         "Message": "cc",
+        "Name": "Rotary Encoder 1",
         "Touch": {
           "Number": 10,
           "Message": "note"
@@ -928,6 +929,7 @@
         "Number": 15,
         "Type": "rotaryencoder",
         "Message": "cc",
+        "Name": "Rotary Encoder 2",
         "Touch": {
           "Number": 9,
           "Message": "note"
@@ -937,6 +939,7 @@
         "Number": 71,
         "Type": "rotaryencoder",
         "Message": "cc",
+        "Name": "Rotary Encoder 3",
         "Touch": {
           "Number": 0,
           "Message": "note"
@@ -946,6 +949,7 @@
         "Number": 72,
         "Type": "rotaryencoder",
         "Message": "cc",
+        "Name": "Rotary Encoder 4",
         "Touch": {
           "Number": 1,
           "Message": "note"
@@ -955,6 +959,7 @@
         "Number": 73,
         "Type": "rotaryencoder",
         "Message": "cc",
+        "Name": "Rotary Encoder 5",
         "Touch": {
           "Number": 2,
           "Message": "note"
@@ -964,6 +969,7 @@
         "Number": 74,
         "Type": "rotaryencoder",
         "Message": "cc",
+        "Name": "Rotary Encoder 6",
         "Touch": {
           "Number": 3,
           "Message": "note"
@@ -973,6 +979,7 @@
         "Number": 75,
         "Type": "rotaryencoder",
         "Message": "cc",
+        "Name": "Rotary Encoder 7",
         "Touch": {
           "Number": 4,
           "Message": "note"
@@ -982,6 +989,7 @@
         "Number": 76,
         "Type": "rotaryencoder",
         "Message": "cc",
+        "Name": "Rotary Encoder 8",
         "Touch": {
           "Number": 5,
           "Message": "note"
@@ -991,6 +999,7 @@
         "Number": 77,
         "Type": "rotaryencoder",
         "Message": "cc",
+        "Name": "Rotary Encoder 9",
         "Touch": {
           "Number": 6,
           "Message": "note"
@@ -1000,6 +1009,7 @@
         "Number": 78,
         "Type": "rotaryencoder",
         "Message": "cc",
+        "Name": "Rotary Encoder 10",
         "Touch": {
           "Number": 7,
           "Message": "note"
@@ -1009,16 +1019,18 @@
         "Number": 79,
         "Type": "rotaryencoder",
         "Message": "cc",
+        "Name": "Rotary Encoder 11",
         "Touch": {
           "Number": 8,
           "Message": "note"
         }
       }
     ],
-    "pitchbend": {
+    "Slider": {
       "Touch": {
         "Number": 12,
-        "Message": "note"
+        "Message": "note",
+        "Name": "Slider"
       }
     }
   },
