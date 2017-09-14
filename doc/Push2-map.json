@@ -389,397 +389,397 @@
     "buttons": [
       {
         "Value": 3,
-        "Type": "cc",
+        "Type": "button",
         "Color": false,
         "Name": "Tap Tempo"
       },
       {
         "Value": 9,
-        "Type": "cc",
+        "Type": "button",
         "Color": false,
         "Name": "Metronome"
       },
       {
         "Value": 118,
-        "Type": "cc",
+        "Type": "button",
         "Color": false,
         "Name": "Delete"
       },
       {
         "Value": 119,
-        "Type": "cc",
+        "Type": "button",
         "Color": false,
         "Name": "Undo"
       },
       {
         "Value": 60,
-        "Type": "cc",
+        "Type": "button",
         "Color": true,
         "Name": "Mute"
       },
       {
         "Value": 61,
-        "Type": "cc",
+        "Type": "button",
         "Color": true,
         "Name": "Solo"
       },
       {
         "Value": 29,
-        "Type": "cc",
+        "Type": "button",
         "Color": true,
         "Name": "Stop"
       },
       {
         "Value": 35,
-        "Type": "cc",
+        "Type": "button",
         "Color": false,
         "Name": "Convert"
       },
       {
         "Value": 117,
-        "Type": "cc",
+        "Type": "button",
         "Color": false,
         "Name": "Double Loop"
       },
       {
         "Value": 116,
-        "Type": "cc",
+        "Type": "button",
         "Color": false,
         "Name": "Quantize"
       },
       {
         "Value": 88,
-        "Type": "cc",
+        "Type": "button",
         "Color": false,
         "Name": "Duplicate"
       },
       {
         "Value": 87,
-        "Type": "cc",
+        "Type": "button",
         "Color": false,
         "Name": "New"
       },
       {
         "Value": 90,
-        "Type": "cc",
+        "Type": "button",
         "Color": false,
         "Name": "Fixed Length"
       },
       {
         "Value": 80,
-        "Type": "cc",
+        "Type": "button",
         "Color": true,
         "Name": "Automate"
       },
       {
         "Value": 86,
-        "Type": "cc",
+        "Type": "button",
         "Color": true,
         "Name": "Record"
       },
       {
         "Value": 85,
-        "Type": "cc",
+        "Type": "button",
         "Color": true,
         "Name": "Play"
       },
       {
         "Value": 102,
-        "Type": "cc",
+        "Type": "button",
         "Color": true,
         "Name": "Upper Row 1"
       },
       {
         "Value": 103,
-        "Type": "cc",
+        "Type": "button",
         "Color": true,
         "Name": "Upper Row 2"
       },
       {
         "Value": 104,
-        "Type": "cc",
+        "Type": "button",
         "Color": true,
         "Name": "Upper Row 3"
       },
       {
         "Value": 105,
-        "Type": "cc",
+        "Type": "button",
         "Color": true,
         "Name": "Upper Row 4"
       },
       {
         "Value": 106,
-        "Type": "cc",
+        "Type": "button",
         "Color": true,
         "Name": "Upper Row 5"
       },
       {
         "Value": 107,
-        "Type": "cc",
+        "Type": "button",
         "Color": true,
         "Name": "Upper Row 6"
       },
       {
         "Value": 108,
-        "Type": "cc",
+        "Type": "button",
         "Color": true,
         "Name": "Upper Row 7"
       },
       {
         "Value": 109,
-        "Type": "cc",
+        "Type": "button",
         "Color": true,
         "Name": "Upper Row 8"
       },
       {
         "Value": 20,
-        "Type": "cc",
+        "Type": "button",
         "Color": true,
         "Name": "Lower Row 1"
       },
       {
         "Value": 21,
-        "Type": "cc",
+        "Type": "button",
         "Color": true,
         "Name": "Lower Row 2"
       },
       {
         "Value": 22,
-        "Type": "cc",
+        "Type": "button",
         "Color": true,
         "Name": "Lower Row 3"
       },
       {
         "Value": 23,
-        "Type": "cc",
+        "Type": "button",
         "Color": true,
         "Name": "Lower Row 4"
       },
       {
         "Value": 24,
-        "Type": "cc",
+        "Type": "button",
         "Color": true,
         "Name": "Lower Row 5"
       },
       {
         "Value": 25,
-        "Type": "cc",
+        "Type": "button",
         "Color": true,
         "Name": "Lower Row 6"
       },
       {
         "Value": 26,
-        "Type": "cc",
+        "Type": "button",
         "Color": true,
         "Name": "Lower Row 7"
       },
       {
         "Value": 27,
-        "Type": "cc",
+        "Type": "button",
         "Color": true,
         "Name": "Lower Row 8"
       },
       {
         "Value": 43,
-        "Type": "cc",
+        "Type": "button",
         "Color": true,
         "Name": "1/32t"
       },
       {
         "Value": 42,
-        "Type": "cc",
+        "Type": "button",
         "Color": true,
         "Name": "1/32"
       },
       {
         "Value": 41,
-        "Type": "cc",
+        "Type": "button",
         "Color": true,
         "Name": "1/16t"
       },
       {
         "Value": 40,
-        "Type": "cc",
+        "Type": "button",
         "Color": true,
         "Name": "1/16"
       },
       {
         "Value": 39,
-        "Type": "cc",
+        "Type": "button",
         "Color": true,
         "Name": "1/8t"
       },
       {
         "Value": 38,
-        "Type": "cc",
+        "Type": "button",
         "Color": true,
         "Name": "1/8"
       },
       {
         "Value": 37,
-        "Type": "cc",
+        "Type": "button",
         "Color": true,
         "Name": "1/4t"
       },
       {
         "Value": 36,
-        "Type": "cc",
+        "Type": "button",
         "Color": true,
         "Name": "1/4"
       },
       {
         "Value": 30,
-        "Type": "cc",
+        "Type": "button",
         "Color": false,
         "Name": "Setup"
       },
       {
         "Value": 59,
-        "Type": "cc",
+        "Type": "button",
         "Color": false,
         "Name": "User"
       },
       {
         "Value": 52,
-        "Type": "cc",
+        "Type": "button",
         "Color": false,
         "Name": "Add Device"
       },
       {
         "Value": 53,
-        "Type": "cc",
+        "Type": "button",
         "Color": false,
         "Name": "Add Track"
       },
       {
         "Value": 110,
-        "Type": "cc",
+        "Type": "button",
         "Color": false,
         "Name": "Device"
       },
       {
         "Value": 112,
-        "Type": "cc",
+        "Type": "button",
         "Color": false,
         "Name": "Mix"
       },
       {
         "Value": 111,
-        "Type": "cc",
+        "Type": "button",
         "Color": false,
         "Name": "Browse"
       },
       {
         "Value": 113,
-        "Type": "cc",
+        "Type": "button",
         "Color": false,
         "Name": "Clip"
       },
       {
         "Value": 28,
-        "Type": "cc",
+        "Type": "button",
         "Color": false,
         "Name": "Master"
       },
       {
         "Value": 46,
-        "Type": "cc",
+        "Type": "button",
         "Color": false,
         "Name": "Up"
       },
       {
         "Value": 47,
-        "Type": "cc",
+        "Type": "button",
         "Color": false,
         "Name": "Down"
       },
       {
         "Value": 44,
-        "Type": "cc",
+        "Type": "button",
         "Color": false,
         "Name": "Left"
       },
       {
         "Value": 45,
-        "Type": "cc",
+        "Type": "button",
         "Color": false,
         "Name": "Right"
       },
       {
         "Value": 56,
-        "Type": "cc",
+        "Type": "button",
         "Color": false,
         "Name": "Repeat"
       },
       {
         "Value": 57,
-        "Type": "cc",
+        "Type": "button",
         "Color": false,
         "Name": "Accent"
       },
       {
         "Value": 58,
-        "Type": "cc",
+        "Type": "button",
         "Color": false,
         "Name": "Scale"
       },
       {
         "Value": 31,
-        "Type": "cc",
+        "Type": "button",
         "Color": false,
         "Name": "Layout"
       },
       {
         "Value": 50,
-        "Type": "cc",
+        "Type": "button",
         "Color": false,
         "Name": "Note"
       },
       {
         "Value": 51,
-        "Type": "cc",
+        "Type": "button",
         "Color": false,
         "Name": "Session"
       },
       {
         "Value": 55,
-        "Type": "cc",
+        "Type": "button",
         "Color": false,
         "Name": "Octave Up"
       },
       {
         "Value": 54,
-        "Type": "cc",
+        "Type": "button",
         "Color": false,
         "Name": "Octave Dpwm"
       },
       {
         "Value": 62,
-        "Type": "cc",
+        "Type": "button",
         "Color": false,
         "Name": "Page Left"
       },
       {
         "Value": 63,
-        "Type": "cc",
+        "Type": "button",
         "Color": false,
         "Name": "Page Right"
       },
       {
         "Value": 49,
-        "Type": "cc",
+        "Type": "button",
         "Color": false,
         "Name": "Shift"
       },
       {
         "Value": 48,
-        "Type": "cc",
+        "Type": "button",
         "Color": false,
         "Name": "Select"
       },
       {
         "Value": 48,
-        "Type": "cc",
+        "Type": "button",
         "Color": false,
         "Name": "Select"
       }
