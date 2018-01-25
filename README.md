@@ -3,7 +3,7 @@ Push Interface
 
 ## What is Push?
 
-[Push](https://www.ableton.com/en/push/) is a digital instrument to create and perform music. Push is engineered in-house at Ableton. The second iteration of the instrument - Push 2 was announced at [Loop](https://loop.ableton.com/) in November, 2015. You can see Push in combination with [Live](https://www.ableton.com/en/live/) in action [here](https://www.youtube.com/watch?v=0CdMvkBOUgs).
+[Push](https://www.ableton.com/en/push/) is a digital instrument to create and perform music. Push is engineered in-house at Ableton. The second iteration of the instrument - Push 2 was announced at [Loop](https://loop.ableton.com/) in November 2015. You can see Push in combination with [Live](https://www.ableton.com/en/live/) in action [here](https://www.youtube.com/watch?v=0CdMvkBOUgs).
 
 ## Interfacing with Push
 
@@ -26,6 +26,5 @@ Please add an [issue](https://github.com/Ableton/push-interface/issues) with you
 * https://github.com/net147/Push2Qml
 * http://sigabort.co/p2d
 
-  Please Note: The external links are being provided as a convenience and for informational purposes only. They do not constitute an
-  endorsement or an approval by the Ableton of any of the linked contents. Ableton bears no responsibility for the accuracy, legality or
-  content of the referred site or for that of subsequent links.
+  Please Note: The external links are being provided as a convenience and for informational purposes only. They do not constitute an endorsement or an approval by the Ableton of any of the linked contents. Ableton bears no responsibility for the accuracy, legality or
+  the content of the referred site or for that of subsequent links.
