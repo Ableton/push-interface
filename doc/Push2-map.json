@@ -3,912 +3,776 @@
     "Pads": [
       {
         "Number": 36,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 1"
+        "Name": "Pad S8 T1"
       },
       {
         "Number": 37,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 2"
+        "Name": "Pad S8 T2"
       },
       {
         "Number": 38,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 3"
+        "Name": "Pad S8 T3"
       },
       {
         "Number": 39,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 4"
+        "Name": "Pad S8 T4"
       },
       {
         "Number": 40,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 5"
+        "Name": "Pad S8 T5"
       },
       {
         "Number": 41,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 6"
+        "Name": "Pad S8 T6"
       },
       {
         "Number": 42,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 7"
+        "Name": "Pad S8 T7"
       },
       {
         "Number": 43,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 8"
+        "Name": "Pad S8 T8"
       },
       {
         "Number": 44,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 9"
+        "Name": "Pad S7 T1"
       },
       {
         "Number": 45,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 10"
+        "Name": "Pad S7 T2"
       },
       {
         "Number": 46,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 11"
+        "Name": "Pad S7 T3"
       },
       {
         "Number": 47,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 12"
+        "Name": "Pad S7 T4"
       },
       {
         "Number": 48,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 13"
+        "Name": "Pad S7 T5"
       },
       {
         "Number": 49,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 14"
+        "Name": "Pad S7 T6"
       },
       {
         "Number": 50,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 15"
+        "Name": "Pad S7 T7"
       },
       {
         "Number": 51,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 16"
+        "Name": "Pad S7 T8"
       },
       {
         "Number": 52,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 17"
+        "Name": "Pad S6 T1"
       },
       {
         "Number": 53,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 18"
+        "Name": "Pad S6 T2"
       },
       {
         "Number": 54,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 19"
+        "Name": "Pad S6 T3"
       },
       {
         "Number": 55,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 20"
+        "Name": "Pad S6 T4"
       },
       {
         "Number": 56,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 21"
+        "Name": "Pad S6 T5"
       },
       {
         "Number": 57,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 22"
+        "Name": "Pad S6 T6"
       },
       {
         "Number": 58,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 23"
+        "Name": "Pad S6 T7"
       },
       {
         "Number": 59,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 24"
+        "Name": "Pad S6 T8"
       },
       {
         "Number": 60,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 25"
+        "Name": "Pad S5 T1"
       },
       {
         "Number": 61,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 26"
+        "Name": "Pad S5 T2"
       },
       {
         "Number": 62,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 27"
+        "Name": "Pad S5 T3"
       },
       {
         "Number": 63,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 28"
+        "Name": "Pad S5 T4"
       },
       {
         "Number": 64,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 29"
+        "Name": "Pad S5 T5"
       },
       {
         "Number": 65,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 30"
+        "Name": "Pad S5 T6"
       },
       {
         "Number": 66,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 31"
+        "Name": "Pad S5 T7"
       },
       {
         "Number": 67,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 32"
+        "Name": "Pad S5 T8"
       },
       {
         "Number": 68,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 33"
+        "Name": "Pad S4 T1"
       },
       {
         "Number": 69,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 34"
+        "Name": "Pad S4 T2"
       },
       {
         "Number": 70,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 35"
+        "Name": "Pad S4 T3"
       },
       {
         "Number": 71,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 36"
+        "Name": "Pad S4 T4"
       },
       {
         "Number": 72,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 37"
+        "Name": "Pad S4 T5"
       },
       {
         "Number": 73,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 38"
+        "Name": "Pad S4 T6"
       },
       {
         "Number": 74,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 39"
+        "Name": "Pad S4 T7"
       },
       {
         "Number": 75,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 40"
+        "Name": "Pad S4 T8"
       },
       {
         "Number": 76,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 41"
+        "Name": "Pad S3 T1"
       },
       {
         "Number": 77,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 42"
+        "Name": "Pad S3 T2"
       },
       {
         "Number": 78,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 43"
+        "Name": "Pad S3 T3"
       },
       {
         "Number": 79,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 44"
+        "Name": "Pad S3 T4"
       },
       {
         "Number": 80,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 45"
+        "Name": "Pad S3 T5"
       },
       {
         "Number": 81,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 46"
+        "Name": "Pad S3 T6"
       },
       {
         "Number": 82,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 47"
+        "Name": "Pad S3 T7"
       },
       {
         "Number": 83,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 48"
+        "Name": "Pad S3 T8"
       },
       {
         "Number": 84,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 49"
+        "Name": "Pad S2 T1"
       },
       {
         "Number": 85,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 50"
+        "Name": "Pad S2 T2"
       },
       {
         "Number": 86,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 51"
+        "Name": "Pad S2 T3"
       },
       {
         "Number": 87,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 52"
+        "Name": "Pad S2 T4"
       },
       {
         "Number": 88,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 53"
+        "Name": "Pad S2 T5"
       },
       {
         "Number": 89,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 54"
+        "Name": "Pad S2 T6"
       },
       {
         "Number": 90,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 55"
+        "Name": "Pad S2 T7"
       },
       {
         "Number": 91,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 56"
+        "Name": "Pad S2 T8"
       },
       {
         "Number": 92,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 57"
+        "Name": "Pad S1 T1"
       },
       {
         "Number": 93,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 58"
+        "Name": "Pad S1 T2"
       },
       {
         "Number": 94,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 59"
+        "Name": "Pad S1 T3"
       },
       {
         "Number": 95,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 60"
+        "Name": "Pad S1 T4"
       },
       {
         "Number": 96,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 61"
+        "Name": "Pad S1 T5"
       },
       {
         "Number": 97,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 62"
+        "Name": "Pad S1 T6"
       },
       {
         "Number": 98,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 63"
+        "Name": "Pad S1 T7"
       },
       {
         "Number": 99,
-        "Type": "pad",
         "Message": "note",
         "Color": true,
-        "Name": "Pad 64"
+        "Name": "Pad S1 T8"
       }
     ],
     "Buttons": [
       {
         "Number": 3,
-        "Type": "button",
         "Message": "cc",
         "Color": false,
         "Name": "Tap Tempo"
       },
       {
         "Number": 9,
-        "Type": "button",
         "Message": "cc",
         "Color": false,
         "Name": "Metronome"
       },
       {
         "Number": 118,
-        "Type": "button",
         "Message": "cc",
         "Color": false,
         "Name": "Delete"
       },
       {
         "Number": 119,
-        "Type": "button",
         "Message": "cc",
         "Color": false,
         "Name": "Undo"
       },
       {
         "Number": 60,
-        "Type": "button",
         "Message": "cc",
         "Color": true,
         "Name": "Mute"
       },
       {
         "Number": 61,
-        "Type": "button",
         "Message": "cc",
         "Color": true,
         "Name": "Solo"
       },
       {
         "Number": 29,
-        "Type": "button",
         "Message": "cc",
         "Color": true,
         "Name": "Stop"
       },
       {
         "Number": 35,
-        "Type": "button",
         "Message": "cc",
         "Color": false,
         "Name": "Convert"
       },
       {
         "Number": 117,
-        "Type": "button",
         "Message": "cc",
         "Color": false,
         "Name": "Double Loop"
       },
       {
         "Number": 116,
-        "Type": "button",
         "Message": "cc",
         "Color": false,
         "Name": "Quantize"
       },
       {
         "Number": 88,
-        "Type": "button",
         "Message": "cc",
         "Color": false,
         "Name": "Duplicate"
       },
       {
         "Number": 87,
-        "Type": "button",
         "Message": "cc",
         "Color": false,
         "Name": "New"
       },
       {
         "Number": 90,
-        "Type": "button",
         "Message": "cc",
         "Color": false,
         "Name": "Fixed Length"
       },
       {
         "Number": 89,
-        "Type": "button",
         "Message": "cc",
         "Color": true,
         "Name": "Automate"
       },
       {
         "Number": 86,
-        "Type": "button",
         "Message": "cc",
         "Color": true,
         "Name": "Record"
       },
       {
         "Number": 85,
-        "Type": "button",
         "Message": "cc",
         "Color": true,
         "Name": "Play"
       },
       {
         "Number": 102,
-        "Type": "button",
         "Message": "cc",
         "Color": true,
         "Name": "Upper Row 1"
       },
       {
         "Number": 103,
-        "Type": "button",
         "Message": "cc",
         "Color": true,
         "Name": "Upper Row 2"
       },
       {
         "Number": 104,
-        "Type": "button",
         "Message": "cc",
         "Color": true,
         "Name": "Upper Row 3"
       },
       {
         "Number": 105,
-        "Type": "button",
         "Message": "cc",
         "Color": true,
         "Name": "Upper Row 4"
       },
       {
         "Number": 106,
-        "Type": "button",
         "Message": "cc",
         "Color": true,
         "Name": "Upper Row 5"
       },
       {
         "Number": 107,
-        "Type": "button",
         "Message": "cc",
         "Color": true,
         "Name": "Upper Row 6"
       },
       {
         "Number": 108,
-        "Type": "button",
         "Message": "cc",
         "Color": true,
         "Name": "Upper Row 7"
       },
       {
         "Number": 109,
-        "Type": "button",
         "Message": "cc",
         "Color": true,
         "Name": "Upper Row 8"
       },
       {
         "Number": 20,
-        "Type": "button",
         "Message": "cc",
         "Color": true,
         "Name": "Lower Row 1"
       },
       {
         "Number": 21,
-        "Type": "button",
         "Message": "cc",
         "Color": true,
         "Name": "Lower Row 2"
       },
       {
         "Number": 22,
-        "Type": "button",
         "Message": "cc",
         "Color": true,
         "Name": "Lower Row 3"
       },
       {
         "Number": 23,
-        "Type": "button",
         "Message": "cc",
         "Color": true,
         "Name": "Lower Row 4"
       },
       {
         "Number": 24,
-        "Type": "button",
         "Message": "cc",
         "Color": true,
         "Name": "Lower Row 5"
       },
       {
         "Number": 25,
-        "Type": "button",
         "Message": "cc",
         "Color": true,
         "Name": "Lower Row 6"
       },
       {
         "Number": 26,
-        "Type": "button",
         "Message": "cc",
         "Color": true,
         "Name": "Lower Row 7"
       },
       {
         "Number": 27,
-        "Type": "button",
         "Message": "cc",
         "Color": true,
         "Name": "Lower Row 8"
       },
       {
         "Number": 43,
-        "Type": "button",
         "Message": "cc",
         "Color": true,
         "Name": "1/32t"
       },
       {
         "Number": 42,
-        "Type": "button",
         "Message": "cc",
         "Color": true,
         "Name": "1/32"
       },
       {
         "Number": 41,
-        "Type": "button",
         "Message": "cc",
         "Color": true,
         "Name": "1/16t"
       },
       {
         "Number": 40,
-        "Type": "button",
         "Message": "cc",
         "Color": true,
         "Name": "1/16"
       },
       {
         "Number": 39,
-        "Type": "button",
         "Message": "cc",
         "Color": true,
         "Name": "1/8t"
       },
       {
         "Number": 38,
-        "Type": "button",
         "Message": "cc",
         "Color": true,
         "Name": "1/8"
       },
       {
         "Number": 37,
-        "Type": "button",
         "Message": "cc",
         "Color": true,
         "Name": "1/4t"
       },
       {
         "Number": 36,
-        "Type": "button",
         "Message": "cc",
         "Color": true,
         "Name": "1/4"
       },
       {
         "Number": 30,
-        "Type": "button",
         "Message": "cc",
         "Color": false,
         "Name": "Setup"
       },
       {
         "Number": 59,
-        "Type": "button",
         "Message": "cc",
         "Color": false,
         "Name": "User"
       },
       {
         "Number": 52,
-        "Type": "button",
         "Message": "cc",
         "Color": false,
         "Name": "Add Device"
       },
       {
         "Number": 53,
-        "Type": "button",
         "Message": "cc",
         "Color": false,
         "Name": "Add Track"
       },
       {
         "Number": 110,
-        "Type": "button",
         "Message": "cc",
         "Color": false,
         "Name": "Device"
       },
       {
         "Number": 112,
-        "Type": "button",
         "Message": "cc",
         "Color": false,
         "Name": "Mix"
       },
       {
         "Number": 111,
-        "Type": "button",
         "Message": "cc",
         "Color": false,
         "Name": "Browse"
       },
       {
         "Number": 113,
-        "Type": "button",
         "Message": "cc",
         "Color": false,
         "Name": "Clip"
       },
       {
         "Number": 28,
-        "Type": "button",
         "Message": "cc",
         "Color": false,
         "Name": "Master"
       },
       {
         "Number": 46,
-        "Type": "button",
         "Message": "cc",
         "Color": false,
         "Name": "Up"
       },
       {
         "Number": 47,
-        "Type": "button",
         "Message": "cc",
         "Color": false,
         "Name": "Down"
       },
       {
         "Number": 44,
-        "Type": "button",
         "Message": "cc",
         "Color": false,
         "Name": "Left"
       },
       {
         "Number": 45,
-        "Type": "button",
         "Message": "cc",
         "Color": false,
         "Name": "Right"
       },
       {
         "Number": 56,
-        "Type": "button",
         "Message": "cc",
         "Color": false,
         "Name": "Repeat"
       },
       {
         "Number": 57,
-        "Type": "button",
         "Message": "cc",
         "Color": false,
         "Name": "Accent"
       },
       {
         "Number": 58,
-        "Type": "button",
         "Message": "cc",
         "Color": false,
         "Name": "Scale"
       },
       {
         "Number": 31,
-        "Type": "button",
         "Message": "cc",
         "Color": false,
         "Name": "Layout"
       },
       {
         "Number": 50,
-        "Type": "button",
         "Message": "cc",
         "Color": false,
         "Name": "Note"
       },
       {
         "Number": 51,
-        "Type": "button",
         "Message": "cc",
         "Color": false,
         "Name": "Session"
       },
       {
         "Number": 55,
-        "Type": "button",
         "Message": "cc",
         "Color": false,
         "Name": "Octave Up"
       },
       {
         "Number": 54,
-        "Type": "button",
         "Message": "cc",
         "Color": false,
         "Name": "Octave Down"
       },
       {
         "Number": 62,
-        "Type": "button",
         "Message": "cc",
         "Color": false,
         "Name": "Page Left"
       },
       {
         "Number": 63,
-        "Type": "button",
         "Message": "cc",
         "Color": false,
         "Name": "Page Right"
       },
       {
         "Number": 49,
-        "Type": "button",
         "Message": "cc",
         "Color": false,
         "Name": "Shift"
       },
       {
         "Number": 48,
-        "Type": "button",
-        "Message": "cc",
-        "Color": false,
-        "Name": "Select"
-      },
-      {
-        "Number": 48,
-        "Type": "button",
         "Message": "cc",
         "Color": false,
         "Name": "Select"
@@ -917,9 +781,8 @@
     "RotaryEncoders": [
       {
         "Number": 14,
-        "Type": "rotaryencoder",
         "Message": "cc",
-        "Name": "Rotary Encoder 1",
+        "Name": "RE1: Tempo Encoder",
         "Touch": {
           "Number": 10,
           "Message": "note"
@@ -927,9 +790,8 @@
       },
       {
         "Number": 15,
-        "Type": "rotaryencoder",
         "Message": "cc",
-        "Name": "Rotary Encoder 2",
+        "Name": "RE2: Swing Encoder",
         "Touch": {
           "Number": 9,
           "Message": "note"
@@ -937,9 +799,8 @@
       },
       {
         "Number": 71,
-        "Type": "rotaryencoder",
         "Message": "cc",
-        "Name": "Rotary Encoder 3",
+        "Name": "RE3: Track1 Encoder",
         "Touch": {
           "Number": 0,
           "Message": "note"
@@ -947,9 +808,8 @@
       },
       {
         "Number": 72,
-        "Type": "rotaryencoder",
         "Message": "cc",
-        "Name": "Rotary Encoder 4",
+        "Name": "RE4: Track2 Encoder",
         "Touch": {
           "Number": 1,
           "Message": "note"
@@ -957,9 +817,8 @@
       },
       {
         "Number": 73,
-        "Type": "rotaryencoder",
         "Message": "cc",
-        "Name": "Rotary Encoder 5",
+        "Name": "RE5: Track3 Encoder",
         "Touch": {
           "Number": 2,
           "Message": "note"
@@ -967,9 +826,8 @@
       },
       {
         "Number": 74,
-        "Type": "rotaryencoder",
         "Message": "cc",
-        "Name": "Rotary Encoder 6",
+        "Name": "RE6: Track4 Encoder",
         "Touch": {
           "Number": 3,
           "Message": "note"
@@ -977,9 +835,8 @@
       },
       {
         "Number": 75,
-        "Type": "rotaryencoder",
         "Message": "cc",
-        "Name": "Rotary Encoder 7",
+        "Name": "RE7: Track5 Encoder",
         "Touch": {
           "Number": 4,
           "Message": "note"
@@ -987,9 +844,8 @@
       },
       {
         "Number": 76,
-        "Type": "rotaryencoder",
         "Message": "cc",
-        "Name": "Rotary Encoder 8",
+        "Name": "RE8: Track6 Encoder",
         "Touch": {
           "Number": 5,
           "Message": "note"
@@ -997,9 +853,8 @@
       },
       {
         "Number": 77,
-        "Type": "rotaryencoder",
         "Message": "cc",
-        "Name": "Rotary Encoder 9",
+        "Name": "RE9: Track7 Encoder",
         "Touch": {
           "Number": 6,
           "Message": "note"
@@ -1007,9 +862,8 @@
       },
       {
         "Number": 78,
-        "Type": "rotaryencoder",
         "Message": "cc",
-        "Name": "Rotary Encoder 10",
+        "Name": "RE10: Track8 Encoder",
         "Touch": {
           "Number": 7,
           "Message": "note"
@@ -1017,9 +871,8 @@
       },
       {
         "Number": 79,
-        "Type": "rotaryencoder",
         "Message": "cc",
-        "Name": "Rotary Encoder 11",
+        "Name": "RE11: Master Encoder",
         "Touch": {
           "Number": 8,
           "Message": "note"
@@ -1029,7 +882,7 @@
     "Slider": {
       "Touch": {
         "Number": 12,
-        "Message": "note",
+        "Message": "pitchbend",
         "Name": "Slider"
       }
     }
