@@ -782,7 +782,8 @@
       {
         "Number": 14,
         "Message": "cc",
-        "Name": "RE1: Tempo Encoder",
+        "Name": "Tempo Encoder",
+        "Position": 1,
         "Touch": {
           "Number": 10,
           "Message": "note"
@@ -791,7 +792,8 @@
       {
         "Number": 15,
         "Message": "cc",
-        "Name": "RE2: Swing Encoder",
+        "Name": "Swing Encoder",
+        "Position": 2,
         "Touch": {
           "Number": 9,
           "Message": "note"
@@ -800,7 +802,8 @@
       {
         "Number": 71,
         "Message": "cc",
-        "Name": "RE3: Track1 Encoder",
+        "Name": "Track1 Encoder",
+        "Position": 3,
         "Touch": {
           "Number": 0,
           "Message": "note"
@@ -809,7 +812,8 @@
       {
         "Number": 72,
         "Message": "cc",
-        "Name": "RE4: Track2 Encoder",
+        "Name": "Track2 Encoder",
+        "Position": 4,
         "Touch": {
           "Number": 1,
           "Message": "note"
@@ -818,7 +822,8 @@
       {
         "Number": 73,
         "Message": "cc",
-        "Name": "RE5: Track3 Encoder",
+        "Name": "Track3 Encoder",
+        "Position": 5,
         "Touch": {
           "Number": 2,
           "Message": "note"
@@ -827,7 +832,8 @@
       {
         "Number": 74,
         "Message": "cc",
-        "Name": "RE6: Track4 Encoder",
+        "Name": "Track4 Encoder",
+        "Position": 6,
         "Touch": {
           "Number": 3,
           "Message": "note"
@@ -836,7 +842,8 @@
       {
         "Number": 75,
         "Message": "cc",
-        "Name": "RE7: Track5 Encoder",
+        "Name": "Track5 Encoder",
+        "Position": 7,
         "Touch": {
           "Number": 4,
           "Message": "note"
@@ -845,7 +852,8 @@
       {
         "Number": 76,
         "Message": "cc",
-        "Name": "RE8: Track6 Encoder",
+        "Name": "Track6 Encoder",
+        "Position": 8,
         "Touch": {
           "Number": 5,
           "Message": "note"
@@ -854,7 +862,8 @@
       {
         "Number": 77,
         "Message": "cc",
-        "Name": "RE9: Track7 Encoder",
+        "Name": "Track7 Encoder",
+        "Position": 9,
         "Touch": {
           "Number": 6,
           "Message": "note"
@@ -863,7 +872,8 @@
       {
         "Number": 78,
         "Message": "cc",
-        "Name": "RE10: Track8 Encoder",
+        "Name": "Track8 Encoder",
+        "Position": 10,
         "Touch": {
           "Number": 7,
           "Message": "note"
@@ -872,7 +882,8 @@
       {
         "Number": 79,
         "Message": "cc",
-        "Name": "RE11: Master Encoder",
+        "Name": "Master Encoder",
+        "Position": 11,
         "Touch": {
           "Number": 8,
           "Message": "note"
