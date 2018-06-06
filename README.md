@@ -25,6 +25,7 @@ Please add an [issue](https://github.com/Ableton/push-interface/issues) with you
 * https://www.npmjs.com/package/node-ableton-push2
 * https://github.com/net147/Push2Qml
 * http://sigabort.co/p2d
+* https://github.com/garrensmith/abletonpush
 
   Please Note: The external links are being provided as a convenience and for informational purposes only. They do not constitute an endorsement or an approval by the Ableton of any of the linked contents. Ableton bears no responsibility for the accuracy, legality or
   the content of the referred site or for that of subsequent links.
