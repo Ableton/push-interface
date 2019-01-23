@@ -27,7 +27,7 @@ Please add an [issue](https://github.com/Ableton/push-interface/issues) with you
 * http://sigabort.co/p2d
 * https://github.com/garrensmith/abletonpush
 * https://github.com/wookay/PushInterface.jl
-* https://github.com/ffont/push2-python - Python package to interface with Push2's buttons, encoders, display...
+* https://github.com/ffont/push2-python
 
   Please Note: The external links are being provided as a convenience and for informational purposes only. They do not constitute an endorsement or an approval by the Ableton of any of the linked contents. Ableton bears no responsibility for the accuracy, legality or
   the content of the referred site or for that of subsequent links.
