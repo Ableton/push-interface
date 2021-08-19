@@ -21,7 +21,7 @@ Please add an [issue](https://github.com/Ableton/push-interface/issues) with you
 
 * https://github.com/Ableton/push2-display-with-juce                      
 
-* https://github.com/brunchboy/wayang
+* https://github.com/Deep-Symmetry/wayang
 * https://www.npmjs.com/package/ableton-push2
 * https://github.com/net147/Push2Qml
 * http://sigabort.co/p2d
