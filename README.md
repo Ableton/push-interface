@@ -28,6 +28,7 @@ Please add an [issue](https://github.com/Ableton/push-interface/issues) with you
 * https://github.com/garrensmith/abletonpush
 * https://github.com/wookay/PushInterface.jl
 * https://github.com/ffont/push2-python
+* https://crates.io/crates/push2_display (Rust display driver)
 
   Please Note: The external links are being provided as a convenience and for informational purposes only. They do not constitute an endorsement or an approval by the Ableton of any of the linked contents. Ableton bears no responsibility for the accuracy, legality or
   the content of the referred site or for that of subsequent links.
